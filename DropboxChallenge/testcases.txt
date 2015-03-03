@@ -1,0 +1,15 @@
+abba
+redblueredblue
+true
+
+aaaa
+asdasdasdasd
+false
+
+aabb
+xyzabcxzyabc
+false
+
+abab
+xyzabcxzyabc
+false
